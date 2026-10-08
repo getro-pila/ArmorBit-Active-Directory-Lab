@@ -73,6 +73,7 @@ The goal is to develop hands-on experience with technologies and responsibilitie
 | Subnet       | 10.10.10.0/24 | Isolated lab network      |
 
 ## 🏗️ Network Architecture
+![ArmorBit Network Architecture](architecture/network-diagram.png)
 
 The initial environment consists of a Windows Server 2025 domain controller and a Windows 11 client connected through an isolated Hyper-V virtual switch.
 
